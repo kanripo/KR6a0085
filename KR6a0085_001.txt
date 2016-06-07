@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:30:30.299454
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:34
 #+TITLE: 息諍因緣經
 #+PROPERTY: CBETA_ID T01n0085
 #+PROPERTY: ID KR6a0085
